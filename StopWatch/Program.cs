@@ -47,7 +47,7 @@ namespace StopWatch
             while(timer <= time)
             {
                 Console.Clear();
-                Console.WriteLine($"{timer} of {time}");
+                Console.WriteLine($"{timer} of {time} seconds");
                 Thread.Sleep(1000);
                 timer++;
             }
