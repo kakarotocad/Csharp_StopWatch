@@ -1,0 +1,14 @@
+/Users/devkakaroto/Documents/C#/CourseBalta/StopWatch/StopWatch/bin/Debug/netcoreapp3.1/StopWatch
+/Users/devkakaroto/Documents/C#/CourseBalta/StopWatch/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.deps.json
+/Users/devkakaroto/Documents/C#/CourseBalta/StopWatch/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.runtimeconfig.json
+/Users/devkakaroto/Documents/C#/CourseBalta/StopWatch/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.runtimeconfig.dev.json
+/Users/devkakaroto/Documents/C#/CourseBalta/StopWatch/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.dll
+/Users/devkakaroto/Documents/C#/CourseBalta/StopWatch/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.pdb
+/Users/devkakaroto/Documents/C#/CourseBalta/StopWatch/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.csproj.AssemblyReference.cache
+/Users/devkakaroto/Documents/C#/CourseBalta/StopWatch/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devkakaroto/Documents/C#/CourseBalta/StopWatch/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.AssemblyInfoInputs.cache
+/Users/devkakaroto/Documents/C#/CourseBalta/StopWatch/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.AssemblyInfo.cs
+/Users/devkakaroto/Documents/C#/CourseBalta/StopWatch/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.csproj.CoreCompileInputs.cache
+/Users/devkakaroto/Documents/C#/CourseBalta/StopWatch/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.dll
+/Users/devkakaroto/Documents/C#/CourseBalta/StopWatch/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.pdb
+/Users/devkakaroto/Documents/C#/CourseBalta/StopWatch/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.genruntimeconfig.cache

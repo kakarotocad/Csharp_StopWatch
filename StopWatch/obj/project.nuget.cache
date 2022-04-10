@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6pIfHR9xiBAv377VcrTKfKXFqOh77svUiu1mqBnEMqGWyAeoK5s1qOMZ1bv8J4N4FpkH238sEIs+W9V6hLG9g==",
+  "success": true,
+  "projectFilePath": "/Users/devkakaroto/Documents/C#/CourseBalta/StopWatch/StopWatch/StopWatch.csproj",
+  "expectedPackageFiles": [
+    "/Users/devkakaroto/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/devkakaroto/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.23/microsoft.netcore.app.host.osx-x64.3.1.23.nupkg.sha512",
+    "/Users/devkakaroto/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
