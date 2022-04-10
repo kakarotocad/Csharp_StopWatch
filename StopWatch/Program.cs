@@ -7,9 +7,11 @@ namespace StopWatch
     {
         static void Main(string[] args)
         {
+            //Call the menu() to show the options
             Menu();
         }
 
+        //Build a menu for the user select the options
         static void Menu()
         {
             Console.Clear();
@@ -22,6 +24,7 @@ namespace StopWatch
             Console.WriteLine(data);
         }
 
+        //Execute the stopwatch based on the amount of time the user need, after the execution call the Menu() again
         static void Start(int time)
         {
             int timer = 1;
